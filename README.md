@@ -36,5 +36,5 @@ The dashboard helps stakeholders understand sales trends, regional performance, 
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard]([screenshots/dashboard](https://github.com/shihaam-arif/Sales-Dashboard/blob/main/Dashboard%20Overview.png)
+![Sales Dashboard][screenshots/dashboard](https://github.com/shihaam-arif/Sales-Dashboard/blob/main/Dashboard%20Overview.png)
 
