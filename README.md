@@ -1,7 +1,7 @@
 # Sales-Dashboard
 
 ## Project Overview
-This project is a **Sales Performance Dashboard** built using **Power BI** to analyze and visualize key sales metrics.  
+This project is a Sales Performance Dashboard built using Power BI to analyze and visualize key sales metrics.  
 The dashboard helps stakeholders understand sales trends, regional performance, and overall business insights through interactive visuals.
 
 ## Objectives
@@ -15,31 +15,24 @@ The dashboard helps stakeholders understand sales trends, regional performance, 
 ## Dataset
 - <a href="https://services.odata.org/Northwind/Northwind.svc/">Dataset</a>
 
-## 📈 Dashboard Features
-- Interactive visuals and slicers
-- KPI cards for quick insights
-- Sales analysis by region
+## KPIs
+- Compare sales and orders 
+- Which month got highest sales?
+- Which region is contributing maximun to sales
+- Highest selling category
+- Top 5 companies contributing to sales
 - Trend analysis over time
-- Insights section highlighting key findings
 
----
+## Tools & Technologies Used
+- Power BI Desktop
+- Power Query
+- DAX in Power BI
 
-## 🛠 Tools & Technologies Used
-- **Power BI Desktop**
-- **Power Query**
-- **DAX (Data Analysis Expressions)**
-- **GitHub** (for portfolio hosting)
-
----
-
-## 🧮 Key DAX Measures
-Some examples of measures used in this dashboard:
+## Key DAX Measures
 - Total Sales
 - Average Order Value
-- Sales by Region
-- Order Count
-
----
+- Total YTD Sale
+- Count Order
 
 ## 📷 Dashboard Preview
 *(Add screenshots of your dashboard here)*
