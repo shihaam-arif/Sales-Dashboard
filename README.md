@@ -35,8 +35,6 @@ The dashboard helps stakeholders understand sales trends, regional performance, 
 - Count Order
 
 ## 📷 Dashboard Preview
-*(Add screenshots of your dashboard here)*
 
-```md
-![Sales Dashboard](screenshots/dashboard.png)
+![Sales Dashboard]([screenshots/dashboard](https://github.com/shihaam-arif/Sales-Dashboard/blob/main/Dashboard%20Overview.png)
 
