@@ -1,4 +1,0 @@
-Data Source: OData feed
-Description: Public OData service used for sales analysis
-Connection Method: Power BI → Get Data → OData Feed
-Note: Live data source; raw dataset not stored locally
