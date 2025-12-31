@@ -1,8 +1,7 @@
 # Sales-Dashboard
 
 ## Project Overview
-This project is a Sales Performance Dashboard built using Power BI to analyze and visualize key sales metrics.  
-The dashboard helps stakeholders understand sales trends, regional performance, and overall business insights through interactive visuals.
+This Power Bi dashboard analyzes sales performance and through interactive visuals.
 
 ## Objectives
 - Analyze overall sales performance
