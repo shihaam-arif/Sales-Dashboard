@@ -22,7 +22,7 @@ This Power Bi dashboard analyzes sales performance and through interactive visua
 - Top 5 companies contributing to sales
 - Trend analysis over time
 
-## Tools & Technologies Used
+## Tools Used
 - Power BI Desktop
 - Power Query
 - DAX in Power BI
