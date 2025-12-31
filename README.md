@@ -17,7 +17,7 @@ The dashboard helps stakeholders understand sales trends, regional performance, 
 
 ## KPIs
 - Compare sales and orders 
-- Which month got highest sales?
+- Which month got highest sales
 - Which region is contributing maximun to sales
 - Highest selling category
 - Top 5 companies contributing to sales
@@ -27,12 +27,6 @@ The dashboard helps stakeholders understand sales trends, regional performance, 
 - Power BI Desktop
 - Power Query
 - DAX in Power BI
-
-## Key DAX Measures
-- Total Sales
-- Average Order Value
-- Total YTD Sale
-- Count Order
 
 ## Dashboard Overview
 
