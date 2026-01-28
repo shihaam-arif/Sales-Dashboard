@@ -29,5 +29,5 @@ This Power Bi dashboard analyzes sales performance and through interactive visua
 
 ## Dashboard Overview
 
-![Sales Dashboard][screenshots/dashboard](https://github.com/shihaam-arif/Sales-Dashboard/blob/main/Dashboard%20Overview.png)
+[Sales dashboard](https://github.com/shihaam-arif/Sales-Dashboard/blob/main/Dashboard%20Overview.png)
 
